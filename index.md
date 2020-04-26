@@ -1,41 +1,26 @@
 本站点分享关于藏文的一些资源和研究  
 
-## 寻找藏文全字集
+## 寻找藏文全字集（python实现
 
-* 正字规范下的全字集 
+* [项目地址](https://github.com/puntsokCN/print_tibetian)
 
-  [项目地址]()
+##  寻找藏文一个单字的结构、找出一句藏文中疑似使用不当的助词并给出修正建议（python实现）
 
-* 不考虑部分正字的全字集(可用于制作字模)
+* [项目地址](https://github.com/puntsokCN/tibetan_analysis)
 
-  [项目地址]()
+## 自制的一个藏文动词和助词分析器（电脑桌面软件-python + QT5 实现）
 
-## 寻找藏文单字的结构及其合法性
+* [项目地址](https://github.com/puntsokCN/tibetian_analysis_programe)
 
-[项目地址]()
-
-## 搜索一个藏文动词的时态及其及物性
-
-[项目地址]()
-
-## 找出一个藏文句子中助词使用疑似非法的位置并给出更正建议
-
-[项目地址]()
-
-## 自制的一个藏文动词和助词分析器（电脑桌面软件）
-
-[项目地址]()
-
-* win64位           [网盘下载]() 提取码：
-* win32位           [网盘下载]() 提取码：
+* [网盘下载](链接：https://pan.baidu.com/s/1x-OXkKf4D18o_Qr-9f2Tcg )    提取码：jlao
 
 ## 整理藏文字库资源
 
-[网盘下载]()     提取码：
+* [网盘下载](链接：https://pan.baidu.com/s/1LsAZ9zBCKWC3FoVcJAzPRg )     提取码：p54p 
 
 ## 藏文转码器
 
 * 藏码通
-  [网盘下载]()     提取码：
+  [网盘下载](链接：https://pan.baidu.com/s/1cZ08l2eKgbLpo1uKHUJudw )     提取码：3k2a 
 * 藏文转换大师
-  [网盘下载]()      提取码：
+  [网盘下载](链接：https://pan.baidu.com/s/1VJ3L8lzZ4XsA51Sai6j0hA )     提取码：rde0
