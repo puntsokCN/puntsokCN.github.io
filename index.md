@@ -24,3 +24,7 @@
   [网盘下载](链接：https://pan.baidu.com/s/1cZ08l2eKgbLpo1uKHUJudw )     提取码：3k2a 
 * 藏文转换大师
   [网盘下载](链接：https://pan.baidu.com/s/1VJ3L8lzZ4XsA51Sai6j0hA )     提取码：rde0
+## 学习笔记
+
+* [Python]()
+* [HTTP指南](https://github.com/puntsokCN/note/blob/master/http.md)
