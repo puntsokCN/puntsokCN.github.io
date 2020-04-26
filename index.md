@@ -23,8 +23,10 @@
 * 藏码通
   [网盘下载](链接：https://pan.baidu.com/s/1cZ08l2eKgbLpo1uKHUJudw )     提取码：3k2a 
 * 藏文转换大师
-  [网盘下载](链接：https://pan.baidu.com/s/1VJ3L8lzZ4XsA51Sai6j0hA )     提取码：rde0
-## 学习笔记
+  [网盘下载](链接：https://pan.baidu.com/s/1VJ3L8lzZ4XsA51Sai6j0hA )     提取码：rde0  
 
-* [Python]()
-* [HTTP指南](https://github.com/puntsokCN/note/blob/master/http.md)
+## 学习资源和笔记
+
+* [Python笔记]()
+* [HTTP指南笔记](https://github.com/puntsokCN/note/blob/master/http.md)
+* [数据结构与算法](https://datastructure.xiaoxiaoming.xyz/#/)
