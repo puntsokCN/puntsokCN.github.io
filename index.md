@@ -21,12 +21,4 @@
 ## 藏文转码器
 
 * 藏码通
-  [网盘下载](https://pan.baidu.com/s/1cZ08l2eKgbLpo1uKHUJudw)     提取码：3k2a 
-* 藏文转换大师
-  [网盘下载](https://pan.baidu.com/s/11mWZlQvz0Big8EiH2VrceQ)    提取码：757i  
-
-## 学习资源和笔记
-
-* [Python笔记]()
-* [HTTP指南笔记]( https://puntsokCN.github.io/note/http.html)
-* [数据结构与算法](https://datastructure.xiaoxiaoming.xyz/#/)
+  [网盘下载](https://pan.baidu.com/s/1cZ08l2eKgbLpo1uKHUJudw)     提取码：3k2a   
