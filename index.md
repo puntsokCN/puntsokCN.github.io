@@ -1,6 +1,6 @@
 本站点分享关于藏文的一些资源和研究  
 
-## 寻找藏文全字集（python实现
+## 寻找藏文全字集（python实现)
 
 * [项目地址](https://github.com/puntsokCN/print_tibetian)
 
