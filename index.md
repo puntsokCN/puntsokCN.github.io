@@ -1,8 +1,10 @@
-欢迎来到本站
+
 ---  
+
 ## 寻找藏文全字集（python实现)
 
-* [项目地址](https://github.com/puntsokCN/print_tibetian)
+* [项目地址](https://github.com/puntsokCN/print_tibetian)  
+
 ---  
 
 ## 寻找藏文一个单字的结构、找出一句藏文中疑似使用不当的助词并给出修正建议（python实现）  
@@ -10,6 +12,7 @@
 * [项目地址](https://github.com/puntsokCN/tibetan_analysis)  
 
 ---    
+
 ## 自制的一个藏文动词和助词分析器（电脑桌面软件-python + QT5 实现）
 
 * [项目地址](https://github.com/puntsokCN/tibetian_analysis_programe)  
