@@ -28,5 +28,5 @@
 ## 学习资源和笔记
 
 * [Python笔记]()
-* [HTTP指南笔记]( https://puntsokCN.github.io/note/http.md )
+* [HTTP指南笔记]( https://puntsokCN.github.io/note/http.html )
 * [数据结构与算法](https://datastructure.xiaoxiaoming.xyz/#/)
