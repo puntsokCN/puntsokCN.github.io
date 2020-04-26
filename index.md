@@ -23,3 +23,5 @@
 * 藏码通
   [网盘下载](https://pan.baidu.com/s/1cZ08l2eKgbLpo1uKHUJudw)     提取码：3k2a   
 ---
+## 学习笔记  
+* [HTTP权威指南学习笔记](puntsokCN.github.io/HTTP/_book/index.html)
