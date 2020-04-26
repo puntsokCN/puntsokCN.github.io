@@ -12,18 +12,18 @@
 
 * [项目地址](https://github.com/puntsokCN/tibetian_analysis_programe)
 
-* [网盘下载](链接：https://pan.baidu.com/s/1x-OXkKf4D18o_Qr-9f2Tcg )    提取码：jlao
+* [网盘下载](https://pan.baidu.com/s/1x-OXkKf4D18o_Qr-9f2Tcg )    提取码：jlao
 
 ## 整理藏文字库资源
 
-* [网盘下载](链接：https://pan.baidu.com/s/1LsAZ9zBCKWC3FoVcJAzPRg )     提取码：p54p 
+* [网盘下载](https://pan.baidu.com/s/1LsAZ9zBCKWC3FoVcJAzPRg )     提取码：p54p 
 
 ## 藏文转码器
 
 * 藏码通
-  [网盘下载](链接：https://pan.baidu.com/s/1cZ08l2eKgbLpo1uKHUJudw )     提取码：3k2a 
+  [网盘下载](https://pan.baidu.com/s/1cZ08l2eKgbLpo1uKHUJudw )     提取码：3k2a 
 * 藏文转换大师
-  [网盘下载](链接：https://pan.baidu.com/s/1VJ3L8lzZ4XsA51Sai6j0hA )     提取码：rde0  
+  [网盘下载](https://pan.baidu.com/s/1VJ3L8lzZ4XsA51Sai6j0hA )     提取码：rde0  
 
 ## 学习资源和笔记
 
