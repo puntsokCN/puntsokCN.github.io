@@ -1,4 +1,4 @@
-本站点分享关于藏文的一些资源和研究 Email:puntsok@foxmail.com
+本站点分享关于藏文的一些资源和研究   Email : puntsok@foxmail.com
 
 ## 寻找藏文全字集
 
