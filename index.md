@@ -16,14 +16,14 @@
 
 ## 整理藏文字库资源
 
-* [网盘下载](https://pan.baidu.com/s/178BKcLHfs9AZSZbUfWnKnA)     提取码：3fth
+* [网盘下载](https://pan.baidu.com/s/11lFjbyG72-fHXLDfl5lmFA)     提取码：wv2q
 
 ## 藏文转码器
 
 * 藏码通
   [网盘下载](https://pan.baidu.com/s/1cZ08l2eKgbLpo1uKHUJudw)     提取码：3k2a 
 * 藏文转换大师
-  [网盘下载](https://pan.baidu.com/s/1pz98beQ2kaxyOuPGYDLVaA)     提取码：al5m
+  [网盘下载](https://pan.baidu.com/s/11mWZlQvz0Big8EiH2VrceQ)    提取码：757i  
 
 ## 学习资源和笔记
 
