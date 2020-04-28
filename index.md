@@ -37,8 +37,8 @@
   
 ---  
 
-## test  
+## 个人学习笔记  
 
-* [python简介](https://nbviewer.jupyter.org/github/puntsokCN/puntsokCN.github.io/blob/master/1.ipynb)
+* [python](https://nbviewer.jupyter.org/github/puntsokCN/puntsokCN.github.io/blob/master/1.ipynb)
 
 
