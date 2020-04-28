@@ -39,6 +39,6 @@
 
 ## 个人学习笔记  
 
-* [python](https://nbviewer.jupyter.org/github/puntsokCN/puntsokCN.github.io/blob/master/1.ipynb)
+* [python](https://nbviewer.jupyter.org/github/puntsokCN/mynote/blob/master/python.ipynb)
 
 
