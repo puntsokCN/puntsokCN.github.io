@@ -39,6 +39,6 @@
 
 ## test  
 
-* [python简介](puntsokCN.github.io/1.ipynb )
+* [python简介](https://nbviewer.jupyter.org/github/puntsokCN/puntsokCN.github.io/blob/master/1.ipynb)
 
 
