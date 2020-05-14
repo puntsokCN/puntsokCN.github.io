@@ -37,6 +37,8 @@
   
 ---  
 
+## 笔记
 
+* [Python](https://nbviewer.jupyter.org/github/puntsokCN/mynote/blob/master/python.ipynb)
 
 
