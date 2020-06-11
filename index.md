@@ -27,6 +27,13 @@
 
 * [网盘下载](https://pan.baidu.com/s/11lFjbyG72-fHXLDfl5lmFA)     提取码：wv2q  
 
+---
+
+## 管理系统测试
+[登录](https://localhost:8000/admin/)
+
+
+
 ---  
 
 ## 藏文转码器  
