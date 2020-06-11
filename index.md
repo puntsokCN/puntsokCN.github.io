@@ -27,13 +27,6 @@
 
 * [网盘下载](https://pan.baidu.com/s/11lFjbyG72-fHXLDfl5lmFA)     提取码：wv2q  
 
----
-
-## 管理系统测试
-[登录](https://localhost:8000/admin/)
-
-
-
 ---  
 
 ## 藏文转码器  
@@ -47,5 +40,14 @@
 ## 笔记
 
 * [Python](https://nbviewer.jupyter.org/github/puntsokCN/mynote/blob/master/python.ipynb)
+
+
+---
+
+## 管理系统测试
+[登录](http://localhost:8000/admin/)  
+
+---
+
 
 
